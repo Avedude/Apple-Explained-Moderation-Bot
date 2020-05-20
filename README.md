@@ -9,11 +9,12 @@ A moderation bot for the Apple Explained Discord server.
 ## Setup
 
 1. Fork and download the source code of the bot.
-2. Go to the directory of the bot's files in a command line.
-3. Run `npm i`.
-4. Move the configs from `/config_templates` to the main bot folder.
-5. Edit the configs as you wish.
-6. Run `node ae-bot.js`.
+2. Download node.js for your operating system from nodejs.org.
+3. Go to the directory of the bot's files in a command line.
+ Run `npm i`. If this doesn't work, run `npm install discord.js --save`.
+ Move the configs from `/config_templates` to the main bot folder.
+ Edit the configs as you wish.
+ Run `node ae-bot.js`.
 
 ## Support
 
