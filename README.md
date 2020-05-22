@@ -6,7 +6,7 @@ A moderation bot for the Apple Explained Discord server.
 
 `restrictions.json` is where you can disable commands and restrict them to certain channels.
 
-`/files/welcomemessage.txt` is where you set the welcome message for your server.
+`/files/welcomemessage.txt` is where you set the welcome message for your server. (If file isn't found, will only send " Welcome 👋")
 
 `news.txt` is where you put news for your bot.
 
